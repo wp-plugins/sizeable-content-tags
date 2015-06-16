@@ -2,8 +2,8 @@
 Contributors: theandystratton, szbl
 Donate link: http://sizeablelabs.com/donate
 Tags: context, relationships, flexible content, content management
-Requires at least: 3.5.1
-Tested up to: 3.5.1
+Requires at least: 4.2.1
+Tested up to: 4.2.1
 Stable tag: trunk
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
